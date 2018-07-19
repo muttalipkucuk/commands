@@ -10,8 +10,8 @@
 ## General
 
 ```
-curl www.example.com
 cat file1.txt
+curl www.example.com
 exit
 export -p
 export NAME_VARIABLE=value
@@ -34,7 +34,6 @@ git fetch
 ## Kubernetes
 
 ```
-
 kubectl version
 kubectl cluster-info
 kubectl get
