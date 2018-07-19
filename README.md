@@ -9,6 +9,17 @@
 [sbt](#sbt) - `sbt`
 
 
+
+| Program                   | Command   |
+| ------------------------- |:---------:|
+| [General](#general)       |           |
+| [Git](#git)               | `git`     |
+| [Kubernetes](#kubernetes) | `kubectl` |
+| [sbt](#sbt)               | `sbt`     |
+
+
+
+
 ## General
 
 ```
