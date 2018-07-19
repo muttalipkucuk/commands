@@ -6,6 +6,8 @@
 
 [Kubernetes](#kubernetes) - `kubectl`
 
+[sbt](#sbt) - `sbt`
+
 
 ## General
 
@@ -49,4 +51,15 @@ kubectl describe
 kubectl logs
 kubectl exec 
 
+```
+
+
+## sbt
+
+```
+sbt clean
+sbt compile
+sbt run 9060
+sbt test
+sbt testOnly com.google.package.x.*
 ```
