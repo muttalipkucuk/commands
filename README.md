@@ -1,14 +1,4 @@
-# Program - Command
-
-[General](#general)
-
-[Git](#git) - `git`
-
-[Kubernetes](#kubernetes) - `kubectl`
-
-[sbt](#sbt) - `sbt`
-
-
+# Command
 
 | Program                   | Command   |
 | ------------------------- |:---------:|
@@ -16,8 +6,6 @@
 | [Git](#git)               | `git`     |
 | [Kubernetes](#kubernetes) | `kubectl` |
 | [sbt](#sbt)               | `sbt`     |
-
-
 
 
 ## General
@@ -74,3 +62,4 @@ sbt run 9060
 sbt test
 sbt testOnly com.google.package.x.*
 ```
+
