@@ -1,8 +1,8 @@
-# Command - Program
+# Program - Command
 
-`git` - [Git](#git)
+[Git](#git) - `git`
 
-`kubectl` - [Kubernetes](#kubernetes)
+[Kubernetes](#kubernetes) - `kubectl`
 
 
 
