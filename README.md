@@ -19,7 +19,6 @@ curl www.example.com
 exit
 export -p
 export NAME_VARIABLE=value
-
 ```
 
 
@@ -27,7 +26,6 @@ export NAME_VARIABLE=value
 
 ```
 gcloud container clusters get-credentials <cluster-name> --zone <zone> --project <project>
-
 ```
 
 
