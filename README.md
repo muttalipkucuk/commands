@@ -79,6 +79,23 @@ kubectl exec
 ```
 
 
+## Maven
+
+```
+mvn --version
+mvn validate
+mvn compile
+mvn test
+mvn package
+mvn integration-test
+mvn verify
+mvn install
+mvn install -P <build-profile>
+mvn deploy
+mvn clean
+mvn site
+```
+
 ## sbt
 
 ```
