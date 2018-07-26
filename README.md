@@ -3,7 +3,7 @@
 | Program                       | Command   |
 | ----------------------------- |:---------:|
 | [General](#general)           |           |
-| [GoogleCloud](#googlecloud)   | `...`     |
+| [Google Cloud](#googlecloud)  | `...`     |
 | [Git](#git)                   | `git`     |
 | [Kubernetes](#kubernetes)     | `kubectl` |
 | [Maven](#maven)               | `mvn`     |
