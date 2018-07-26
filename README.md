@@ -23,12 +23,36 @@ export NAME_VARIABLE=value
 ## Git
 
 ```
-git clone
+git config --global user.name "muttalipkucuk"
+git config --global user.email muttalip@example.com
+git init
+git clone /path/to/repository
+git clone username@host:/path/to/repository
+git add *
+git add <file-name>
 git add . -p
 git commit -m "Some message"
 git push
+git push origin master
+git push origin <branch-name>
+git push origin :<branchname>
+git status
+git remote add origin <server>
+git remote -v
+git checkout <branchname>
+git checkout -b <branch-name>
+git checkout -- <filename>
+git branch
+git branch -d <branch-name>
 git pull
+git merge <branch-name>
 git fetch
+git fetch origin
+git diff
+git diff <source-branch> <target-branch>
+git tag 1.0.0 <commit-ID>
+git log
+git reset --hard origin/master
 ```
 
 
