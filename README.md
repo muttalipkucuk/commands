@@ -84,7 +84,7 @@ kubectl run node-name --image=link-to-image.com --port=8080
 kubectl describe
 kubectl logs
 kubectl exec 
-
+kubectl port-forward <service-name> <local-port> <pod-port>
 ```
 
 
