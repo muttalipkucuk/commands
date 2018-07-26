@@ -10,7 +10,7 @@
 | [...](#...)               | `...`     |
 
 
-![alt text](https://d1q6f0aelx0por.cloudfront.net/product-logos/b14d466e-356f-4b00-bc4e-af5e8284a1bd-maven.png =50x50)
+![alt text](https://d1q6f0aelx0por.cloudfront.net/product-logos/b14d466e-356f-4b00-bc4e-af5e8284a1bd-maven.png)
 
 ## General
 
