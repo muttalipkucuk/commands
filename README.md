@@ -23,7 +23,7 @@ export NAME_VARIABLE=value
 ```
 
 
-## Google Cloud
+## GoogleCloud
 
 ```
 gcloud container clusters get-credentials <cluster-name> --zone <zone> --project <project>
