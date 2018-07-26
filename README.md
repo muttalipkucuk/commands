@@ -3,7 +3,7 @@
 | Program                       | Command   |
 | ----------------------------- |:---------:|
 | [General](#general)           |           |
-| [Google Cloud](#googlecloud)  | `...`     |
+| [Google Cloud](#google cloud) | `...`     |
 | [Git](#git)                   | `git`     |
 | [Kubernetes](#kubernetes)     | `kubectl` |
 | [Maven](#maven)               | `mvn`     |
@@ -23,7 +23,7 @@ export NAME_VARIABLE=value
 ```
 
 
-## GoogleCloud
+## Google Cloud
 
 ```
 gcloud container clusters get-credentials <cluster-name> --zone <zone> --project <project>
