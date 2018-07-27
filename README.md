@@ -108,7 +108,9 @@ mvn site
 ## npm
 
 ```
+npm version
 npm install
+npm update
 ```
 
 
