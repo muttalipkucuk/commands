@@ -7,6 +7,7 @@
 | [Git](#git)                   | `git`     |
 | [Kubernetes](#kubernetes)     | `kubectl` |
 | [Maven](#maven)               | `mvn`     |
+| [npm](#npm)                   | `npm`     |
 | [sbt](#sbt)                   | `sbt`     |
 | [...](#...)                   | `...`     |
 
@@ -102,6 +103,14 @@ mvn deploy
 mvn clean
 mvn site
 ```
+
+
+## npm
+
+```
+npm install
+```
+
 
 ## sbt
 
