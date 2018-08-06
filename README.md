@@ -1,6 +1,3 @@
-
-
-
 # Command
 
 | Program                       | Command   |
