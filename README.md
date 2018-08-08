@@ -63,6 +63,8 @@ git diff <source-branch> <target-branch>
 git tag 1.0.0 <commit-ID>
 git log
 git reset --hard origin/master
+git stash save "some message"
+git stash list
 ```
 
 
