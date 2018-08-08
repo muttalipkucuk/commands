@@ -65,6 +65,7 @@ git log
 git reset --hard origin/master
 git stash save "some message"
 git stash list
+git stash apply stash@{n}
 ```
 
 
