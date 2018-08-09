@@ -125,6 +125,8 @@ sbt compile
 sbt run 9060
 sbt test
 sbt testOnly com.google.package.x.*
+sbt reload
+sbt update
 ```
 
 
