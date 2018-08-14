@@ -1,6 +1,6 @@
 # Command
 
-| Program                       | Command   |
+| Tool                          | Command   |
 | ----------------------------- |:---------:|
 | [General](#general)           |           |
 | [Google Cloud](#googlecloud)  | `...`     |
