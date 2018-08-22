@@ -20,6 +20,7 @@ curl www.example.com
 exit
 export -p
 export NAME_VARIABLE=value
+nano .bash_profile
 ```
 
 
