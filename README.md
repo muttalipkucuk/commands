@@ -88,6 +88,7 @@ kubectl describe
 kubectl logs
 kubectl exec 
 kubectl port-forward <service-name> <local-port> <pod-port>
+kubectl create -f ./secret.yaml
 ```
 
 
