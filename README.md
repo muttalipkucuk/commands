@@ -91,6 +91,8 @@ kubectl exec
 kubectl port-forward <service-name> <local-port> <pod-port>
 kubectl create -f ./secret.yaml
 kubectl delete secret name-of-secret
+kubectl config use-context name-of-cluster
+kubectl config get-contexts
 ```
 
 
