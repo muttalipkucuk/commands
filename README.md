@@ -21,7 +21,7 @@ exit
 export -p
 export NAME_VARIABLE=value
 nano .bash_profile
-echo -n 'admin' | base64
+echo -n 'SomePassword123' | base64
 ```
 
 
