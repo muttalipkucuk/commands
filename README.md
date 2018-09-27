@@ -1,5 +1,3 @@
-
-
 # Commands
 
 | Tool                          | Command   |
