@@ -1,10 +1,8 @@
-
-
 # Index
 
 | Tool                          | Command   |
 | ----------------------------- |:---------:|
-| [General](#general)           |           |
+| [Shell](#shell)               |           |
 | [Google Cloud](#googlecloud)  | `...`     |
 | [Git](#git)                   | `git`     |
 | [Kubernetes](#kubernetes)     | `kubectl` |
@@ -14,7 +12,7 @@
 | [...](#...)                   | `...`     |
 
 
-## General
+## Shell
 
 ```
 cat file1.txt
