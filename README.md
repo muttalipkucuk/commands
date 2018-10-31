@@ -94,6 +94,8 @@ kubectl create -f ./secret.yaml
 kubectl delete secret name-of-secret
 kubectl config use-context name-of-cluster
 kubectl config get-contexts
+
+kubectl describe node the-name-of-the-node
 ```
 
 
