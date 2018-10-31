@@ -75,6 +75,7 @@ git diff --staged (or git diff --cached)
 ## Kubernetes
 
 ```
+kubectl [command] [TYPE] [NAME] [flags]
 kubectl version
 kubectl cluster-info
 kubectl get
