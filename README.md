@@ -72,6 +72,11 @@ git diff --staged (or git diff --cached)
 git checkout HEAD -- my-file.txt
 ```
 
+Merge master into (existing) branch `myBranch`:
+```
+git checkout myBranch
+git pull origin master
+```
 
 ## Kubernetes
 
