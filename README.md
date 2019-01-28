@@ -149,7 +149,7 @@ sbt update
 ## brew
 
 ```
-/usr/local/Cellar/cassandra (Location Cassandra installed using Brew)
+/usr/local/Cellar/cassandra (Location Cassandra is installed using Brew)
 ```
 
 
