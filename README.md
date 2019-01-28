@@ -22,6 +22,7 @@ export -p
 export NAME_VARIABLE=value
 nano .bash_profile
 echo -n 'SomePassword123' | base64
+printenv
 ```
 
 
