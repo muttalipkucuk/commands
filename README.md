@@ -160,3 +160,8 @@ sbt update
 ```
 ...
 ```
+
+### Make script executable
+```
+chmod +x script.sh
+```
