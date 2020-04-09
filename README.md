@@ -72,6 +72,7 @@ git stash list
 git stash apply stash@{n}
 git diff --staged (or git diff --cached)
 git checkout HEAD -- my-file.txt
+git clone https://oauth2:<token-eg-personal-access-token>@<project-dot-git>
 ```
 
 Merge master into (existing) branch `myBranch`:
